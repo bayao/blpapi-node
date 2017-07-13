@@ -29,7 +29,7 @@
             }],
             ['target_arch=="x64"', {
               'msvs_configuration_platform': 'x64',
-              'msbuild_toolset': 'v120_xp',
+              'msbuild_toolset': 'v140',
               'libraries': [
                 '<(module_root_dir)/deps/blpapi/win/blpapi3_64.lib'
               ],
