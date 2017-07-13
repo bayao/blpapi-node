@@ -44,9 +44,5 @@
     "realtime",
     "market"
   ],
-  "license": "MIT",
-  "engines": {
-    "node": ">=0.12",
-    "iojs": ">=1.0"
-  }
+  "license": "MIT"
 }
